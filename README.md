@@ -8,7 +8,7 @@ An interactive web application designed to generate personalized recipes based o
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Live Demo](#live-demo)
+- [Live Demo](https://d3e5-35-196-52-251.ngrok-free.app/)
 - [License](#license)
 
 ## Features

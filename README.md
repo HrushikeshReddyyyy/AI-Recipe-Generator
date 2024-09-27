@@ -27,13 +27,16 @@ An interactive web application designed to generate personalized recipes based o
 
 
 Usage
-Open your web browser and navigate to the Ngrok public URL.
+Open your web browser and navigate to the Live Demo.
 Enter the ingredients you have available in the text input (comma-separated).
 Select your desired cuisine from the dropdown menu.
 Click the "Generate Recipe" button to create a recipe based on your inputs.
 Review the generated recipe and any warnings regarding invalid ingredients.
+
+
 Live Demo
-You can access a live version of the application here: AI Recipe Generator.
+You can access a live version of the application here: [AI Recipe Generator](https://d3e5-35-196-52-251.ngrok-free.app/).
+
 
 License
 This project is licensed under the MIT License. You can view the full license text in the LICENSE file in the repository. The MIT License permits users to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original license notice and permission notice are included in all copies or substantial portions of the software.

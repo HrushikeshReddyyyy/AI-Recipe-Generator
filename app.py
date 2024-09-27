@@ -5,13 +5,10 @@ from langchain.schema import HumanMessage
 import os
 
 
-# Set your Groq API key here
 os.environ["GROQ_API_KEY"] = "YOUR_API_KEY"
 
-# Initialize Groq client
 llm = ChatGroq()
 
-# Define our database of recipes
 recipes = [
     {
         "name": "Pasta Carbonara",
@@ -50,7 +47,6 @@ recipes = [
     }
 ]
 
-# Define our database of cuisines (for validation)
 cuisines = list(set(recipe["cuisine"] for recipe in recipes))
 
 def generate_recipe_with_groq(ingredients, cuisine):

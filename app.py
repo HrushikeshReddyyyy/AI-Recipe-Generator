@@ -6,7 +6,7 @@ import os
 
 
 # Set your Groq API key here
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = ""
 
 # Initialize Groq client
 llm = ChatGroq()

@@ -8,7 +8,6 @@ An interactive web application designed to generate personalized recipes based o
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Live Demo](https://d3e5-35-196-52-251.ngrok-free.app/)
 - [License](#License.md)
 
 ## Features
@@ -34,8 +33,6 @@ Click the "Generate Recipe" button to create a recipe based on your inputs.
 Review the generated recipe and any warnings regarding invalid ingredients.
 
 
-## Live Demo
-You can access a live version of the application here: [AI Recipe Generator](https://d3e5-35-196-52-251.ngrok-free.app/).
 
 
 ## License

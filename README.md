@@ -1,4 +1,4 @@
-# AI Recipe Generator
+# Culinary AI: Intelligent Recipe Recommendation System:
 
 An interactive web application designed to generate personalized recipes based on the ingredients you have on hand. Utilizing the Langchain Groq API, this application creates unique recipes tailored to various cuisines, providing a seamless cooking experience.
 
